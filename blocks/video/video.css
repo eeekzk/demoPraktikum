@@ -52,3 +52,11 @@
   line-height: 15px;
   margin: 0;
 }
+
+.video__item_kamchatka {
+  background-image: url(../../img/video-kamchatka.jpg);
+}
+
+.video__item_observatory {
+  background-image: url(../../img/video-observatory.jpg);
+}
