@@ -1,0 +1,48 @@
+.place-card {
+  max-width: 984px;
+  margin: 80px auto;
+}
+
+.place-card__top,
+.place-card__bot {
+  display: flex;
+}
+
+.place-card__top {
+  align-items: flex-end;
+  margin-bottom: 60px;
+}
+
+.place-card__img {
+  max-width: 460px;
+  max-height: 460px;
+}
+
+.place-card__title {
+  width: 457px;
+  font-size: 72px;
+  line-height: 65px;
+  margin: 0 40px 0 0;
+}
+
+.url__heading {
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  color: #AAAAAA;
+}
+
+.url__link {
+  color: #FFF;
+  font-size: 18px;
+  border-bottom: 1px solid #FFF;
+}
+
+.place-card__text {
+  font-size: 18px;
+  line-height: 30px;
+  margin-left: 40px;
+}
+
+.place-card__text-part {
+  margin: 0 0 36px;
+}
