@@ -1,0 +1,25 @@
+.header {
+  max-width: 1184px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 30px;
+  margin: 0 auto;
+}
+
+.header__lang-link {
+  color: #FFF;
+  font-size: 24px;
+  margin-right: 18px;
+}
+
+.header__lang-link_active {
+  border-bottom: 2px solid #FFF;
+}
+
+.header__lang-link:hover,
+.header__lang-link:hover:active,
+.header__logo:hover,
+.header__logo:active {
+  opacity: 0.7;
+}

@@ -1,0 +1,10 @@
+@import url(../pages/normalize.css);
+@import url(../pages/style.css);
+@import url(../fonts/fonts.css);
+@import url(../blocks/header/header.css);
+@import url(../blocks/banner/banner.css);
+@import url(../blocks/intro/intro.css);
+@import url(../blocks/text-title/text-title.css);
+@import url(../blocks/text-subtitle/text-subtitle.css);
+@import url(../blocks/comments/comments.css);
+@import url(../blocks/footer/footer.css);

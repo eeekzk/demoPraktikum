@@ -1,0 +1,44 @@
+.intro {
+  max-width: 984px;
+  margin: 0 auto;
+}
+
+.intro__img {
+  width: 100%;
+}
+
+.intro-content {
+  width: 683px;
+}
+
+.intro-img__description {
+  display: flex;
+  justify-content: flex-start;
+  font-size: 10px;
+  line-height: 12px;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  margin: 10px 0;
+}
+
+.intro__list {
+  padding: 0;
+}
+
+.intro__title {
+  font-size: 54px;
+  line-height: 59px;
+  margin: 80px 0 48px;
+}
+
+.intro__text {
+  font-size: 14px;
+  line-height: 24px;
+  margin: 0;
+}
+
+.intro__list {
+  font-size: 13px;
+  line-height: 20px;
+  margin: 24px 0 102px;
+}

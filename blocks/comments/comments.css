@@ -1,0 +1,21 @@
+.comments {
+  max-width: 1184px;
+  margin: 102px auto;
+}
+
+.comments__deck {
+  display: flex;
+  justify-content: space-between;
+}
+
+.comment-card {
+  width: 382px;
+  font-size: 14px;
+  line-height: 24px;
+}
+
+.comment__img {
+  width: 97px;
+  height: 97px;
+  border-radius: 50%;
+}
